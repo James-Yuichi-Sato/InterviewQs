@@ -1,0 +1,1 @@
+You are given a data set of [Chipotle orders](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv). You're asked to figure out the average order price and the average price per item ordered. Can you describe how you would do this using Python Pandas? The solution will be Python code which walks through the logic and calculation.
