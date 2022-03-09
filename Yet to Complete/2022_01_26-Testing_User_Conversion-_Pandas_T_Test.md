@@ -1,0 +1,7 @@
+# 2022 Month Date
+
+## Question
+Given the following [dataset](https://raw.githubusercontent.com/erood/interviewqs.com_code_snippets/master/Datasets/test_table_truncated.csv), can you see if there's a significant difference between the conversion rate of users between the test and control group? The relevant columns in the table are conversion and test. The conversion column has values of 0 and 1 which represent if the user converted (1) or not (0). The test table has values of 0 and 1 as well, 0 for the control group and 1 for the test group. 
+
+## Solution
+***Insert Solution/Answer Here***
